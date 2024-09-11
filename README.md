@@ -1,3 +1,3 @@
-This Repository talks about my internship with The Sparks Foundation on Web Developing and Designing. And all the tasks done by me through this Wonderful Internship Journey with Oasis Infobyte will be reflect here.
+This Repository talks about my internship with The Sparks Foundation on Web Development and Designing. And all the tasks done by me through this Wonderful Internship Journey with The Sparks Foundation will be reflect here.
 
 Thank You...
